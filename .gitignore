@@ -1,0 +1,6 @@
+# Datoteke, ki jih ustvari Jupyter
+.ipynb_checkpoints/
+
+# Mapi s podatki
+recepti/
+posamezni_recepti/
